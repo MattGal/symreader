@@ -1,4 +1,5 @@
 {
+  "publishUrl": "https://dotnet.myget.org/F/symreader/api/v3/index.json",
   "sign": [
     {
       "certificate": "MicrosoftSHA1Win8WinBlue",
